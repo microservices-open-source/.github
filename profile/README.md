@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name Vietnamese is Lương.
+I'm a Java Developer. I can use Linux OS for work, Spring framework to 
+build the Backed and React JS for the Front end. I also have deep 
+knowledge about Docker.
 <!--
 
 **Here are some ideas to get you started:**
